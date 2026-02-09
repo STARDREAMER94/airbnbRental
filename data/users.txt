@@ -1,0 +1,4 @@
+userId|username|hashedPassword|email|role
+1|Kea|E99A18C428CB38D5F260853678922E03|kea@gmail.com|guest
+2|Rea|5F4DCC3B5AA765D61D8327DEB882CF99|rea@gmail.com|host
+

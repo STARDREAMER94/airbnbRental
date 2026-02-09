@@ -1,0 +1,4 @@
+bookingId|listingId|guestId|checkIn|checkOut|totalPrice|status
+B001|L001|1|2025-05-01|2025-05-05|4800|confirmed
+B001|L002|1|2025-05-08|2025-05-15|2800|confirmed
+

@@ -1,0 +1,4 @@
+listingId|hostId|title|location|pricePerNight|available|averageRating
+L001|2|Xhesha|Cape Town|1200.00|true|4.5
+L002|3|Rea Lala|Joburg|955.80|true|4.5
+
